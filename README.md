@@ -31,7 +31,6 @@ GitHub
 Also integrates ML models (via link to a Colab notebook) for report & image analysis 
 GitHub
 
-Notes / Extras
 
 The README points to a Colab notebook for the ML model integration 
 GitHub
